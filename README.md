@@ -16,8 +16,8 @@
 | 8:32 pm, Mar 26 |    develop    |      更新README(f3142f4)       |                                          |
 | 8:37 pm, Mar 26 | feature/login |       开发登录功能(28ab1e0)        |                                          |
 | 8:52 pm, Mar 26 | feature/login | 从 develop 合并代码到feature/login |                                          |
-
-
+| 9:02 pm, Mar 26 | feature/home |         开发首页功能(397969d)          |             							|
+| 9:11 pm, Mar 26 | develop |       从 feature/home合并代码到 develop          |        	|
 
 ## 版本记录
 
