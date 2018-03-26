@@ -10,8 +10,10 @@
 | 4:53 pm, Mar 26 | master  | Initial commit(4f9dece) |                                          |
 | 5:30 pm, Mar 26 | master  |    新增操作记录表格(3cfdb23)    |                                          |
 | 5:44 pm, Mar 26 | master  |  新增版本记录及分支记录(cf107e5)   |                                          |
-|     Mar 26      | develop |                         | [从 master拉取 develop 分支](img/new_dev_from_master.jpg) |
-| 8:45 pm, Mar 26 | develop |        更新README         |                                          |
+|     Mar 26      | master  |                         | [从 master拉取 develop 分支](img/new_dev_from_master.jpg) |
+| 8:45 pm, Mar 26 | develop |    更新README(ce2fd93)    |                                          |
+|     Mar 26      | develop |                         | [从develop 分支拉取feature/login和feature/home 分支](img/new_feature_login_home_from_develop.jpg) |
+| 8:32 pm, Mar 26 | develop |        更新README         |                                          |
 
 
 
