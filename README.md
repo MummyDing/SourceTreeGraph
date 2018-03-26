@@ -12,12 +12,12 @@
 | 5:44 pm, Mar 26 |    master     |     新增版本记录及分支记录(cf107e5)     |                                          |
 |     Mar 26      |    master     |                              | [从 master拉取 develop 分支](img/new_dev_from_master.jpg) |
 | 8:24 pm, Mar 26 |    develop    |      更新README(ce2fd93)       |                                          |
-|     Mar 26      |    develop    |                              | [从 develop 分支拉取feature/login和feature/home 分支](img/new_feature_login_home_from_develop.jpg) |
+|     Mar 26      |    develop    |                              | [从develop 分支拉取feature/login和feature/home 分支](img/new_feature_login_home_from_develop.jpg) |
 | 8:32 pm, Mar 26 |    develop    |      更新README(f3142f4)       |                                          |
 | 8:37 pm, Mar 26 | feature/login |       开发登录功能(28ab1e0)        |                                          |
 | 8:52 pm, Mar 26 | feature/login | 从 develop 合并代码到feature/login |                                          |
-| Mar 26 | feature/login |  	 | [ 从 feature/login 分支拉取 release/login 分支](new_release_login_from_feature_login.jpg)|
-| 9:31 pm, Mar 26 | release/login |       修复一些bug        |                                          |
+| 9:02 pm, Mar 26 | feature/home |         开发首页功能(397969d)          |             							|
+| 9:11 pm, Mar 26 | develop |       从 feature/home合并代码到 develop          |        	|
 
 ## 版本记录
 
